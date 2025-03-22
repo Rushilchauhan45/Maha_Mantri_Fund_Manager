@@ -86,11 +86,7 @@ const Login = () => {
                   </div>
                 </div>
                 
-                <div className="text-sm text-muted-foreground">
-                  <p>Test Accounts:</p>
-                  <p>Maha-Mantri: admin / admin@123</p>
-                  <p>Mantri: vimalchauhan / Vimal@123</p>
-                </div>
+                
               </CardContent>
               
               <CardFooter>
