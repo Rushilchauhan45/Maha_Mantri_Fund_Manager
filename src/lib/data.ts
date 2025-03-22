@@ -61,7 +61,7 @@ export const communityMembers: Member[] = [
 const initialTransactions: Transaction[] = [
   {
     id: '1',
-    date: '2025-03-22',
+    date: '2025-02-22',
     memberId: '1',
     memberName: 'Parth Kacha',
     role: 'Maha-Mantri',
@@ -69,7 +69,7 @@ const initialTransactions: Transaction[] = [
   },
   {
     id: '2',
-    date: '2025-03-22',
+    date: '2025-02-22',
     memberId: '2',
     memberName: 'Vimal Chauhan',
     role: 'Mantri',
@@ -77,7 +77,7 @@ const initialTransactions: Transaction[] = [
   },
   {
     id: '3',
-    date: '2025-03-22',
+    date: '2025-02-22',
     memberId: '3',
     memberName: 'Dhaval Chauhan',
     role: 'Mantri',
@@ -85,14 +85,14 @@ const initialTransactions: Transaction[] = [
   },
   {
     id: '4',
-    date: '2025-03-22',
+    date: '2025-02-22',
     memberId: '4',
     memberName: 'Mihir Chauhan',
     role: 'Mantri',
     amount: 50
   },{
     id: '5',
-    date: '2025-03-22',
+    date: '2025-02-22',
     memberId: '5',
     memberName: 'Rushil Chauhan',
     role: 'Mantri',
